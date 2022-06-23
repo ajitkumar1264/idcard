@@ -92,7 +92,7 @@ class idcard extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              "vaghelaajit464@gmail.com",
+              "ajit12345@gmail.com",
               style: TextStyle(
                   color: Colors.amberAccent[200],
                   fontSize: 23.0,
