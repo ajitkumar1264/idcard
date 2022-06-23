@@ -1,8 +1,4 @@
-# Idcard
+## Screenshots
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
